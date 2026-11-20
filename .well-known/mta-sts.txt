@@ -1,4 +1,6 @@
 version: STSv1
 mode: enforce
 mx: *.mail.icloud.com
+mx: 33c9e879.21.ik2.com
+mx: 33c9e879.22.ik2.io
 max_age: 604800
